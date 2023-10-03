@@ -8,6 +8,6 @@
     </test>
     <listeners>
         <listener class-name="org.uncommons.reportng.HTMLReporter"/>
-        <!--        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>-->
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
     </listeners>
 </suite>
