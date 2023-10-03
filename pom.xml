@@ -65,7 +65,11 @@
                                 </value>
                             </property>
                         </properties>
-                        <suiteXmlFiles>UnitTest.xml</suiteXmlFiles>
+                        <suiteXmlFiles>
+                            <suiteXmlFile>
+                                UnitTest.xml
+                            </suiteXmlFile>
+                        </suiteXmlFiles>
                     </configuration>
                 </plugin>
             </plugins>
