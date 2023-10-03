@@ -35,7 +35,9 @@
     </dependencies>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.release>13</maven.compiler.release>
+        <maven.compiler.release>19</maven.compiler.release>
+        <maven.compiler.source>19</maven.compiler.source>
+        <maven.compiler.target>19</maven.compiler.target>
     </properties>
 
     <build>
